@@ -9,7 +9,6 @@ A web-based Text and Speech Analysis application that performs **sentence tokeni
 The application accepts user-provided text and processes it to identify sentences, individual words, word frequencies, sentence lengths, and vocabulary richness. Results are presented through interactive statistics, frequency rankings, and visualizations.
 
 This project was developed as part of the **Text and Speech Analysis** coursework.
-
 ## ✨ Features
 
 * 🔤 Sentence Tokenization
